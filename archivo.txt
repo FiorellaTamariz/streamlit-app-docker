@@ -1,0 +1,8 @@
+Bienvenido a la Aplicación Streamlit
+
+INSTRUCCIONES:
+1. Introduce los datos en los campos correspondientes.
+2. Haz clic en "Generar gráfico" para ver los resultados.
+3. Si deseas realizar un análisis, puedes cargar tus datos en formato CSV.
+
+Disfruta tu experiencia interactiva con Streamlit.
